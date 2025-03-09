@@ -37,6 +37,10 @@ A to-do app n flutter which has a calender-based UI. Users can add, edt, delete,
 - **sqflite**: Local SQLite database for storing favorite books.
 - **Provider**: Used here only for theme.
 
+## Video
+
+https://github.com/user-attachments/assets/73623635-5833-4411-aae0-3aff26a847ca
+
 ## Screen Shots
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
@@ -51,4 +55,6 @@ A to-do app n flutter which has a calender-based UI. Users can add, edt, delete,
   <img src="https://github.com/user-attachments/assets/aa6439ab-b7e5-4e99-bc41-040781f04594" width="350">
   <img src="https://github.com/user-attachments/assets/601da017-af2e-4e1a-858b-00b269e2440e" width="350">
 </div>
+
+
 
